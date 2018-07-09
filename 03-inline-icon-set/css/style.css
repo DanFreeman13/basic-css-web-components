@@ -1,0 +1,13 @@
+*{
+	box-sizing: border-box;
+}
+
+h1 {
+	font-family: sans-serif;
+}
+
+.box {
+	height: 3px;
+	width: auto;
+	background-color: #222222;
+}

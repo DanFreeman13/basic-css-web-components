@@ -1,0 +1,44 @@
+*{
+	box-sizing: border-box;
+	font-family: "Helvetica Neue", sans-serif;
+}
+
+div {
+	width: 100%;
+	padding: 0;
+	margin: 0;
+}
+
+h1{
+	width: 24.5%;
+	height: auto;
+	border: 0;
+	font-size: 20px;
+	display: inline-block;
+	background-color: #004;
+	background-size: auto;
+	color: #fff;
+	
+}
+
+p {
+	width: 24.5%;
+	height: 40px;
+	border: 0;
+	display: inline-block;
+	
+}
+
+a {
+	color: #DE5233;
+}
+
+strong {
+	color: #000;
+}
+
+
+.table-object {
+	color: #555;
+}
+

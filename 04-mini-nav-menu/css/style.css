@@ -1,0 +1,32 @@
+*{
+	box-sizing: border-box;
+	font-family: "Futura";
+}
+
+h1 {
+	border-top: 3px solid darkgray;
+	border-bottom: 3px solid darkgray;
+	text-align: center;
+	font-size: 
+
+}
+
+nav {
+	width: 100%;
+	text-align: center;
+	
+}
+
+a {
+	width: auto;
+	color: #FFFFFF;
+	padding: 10px;
+	margin: 0 auto;
+	text-align: center;
+	background-color: rgb(205,92,92);
+}
+
+.summer {
+	color: #333333;
+	display: inline-block;
+}

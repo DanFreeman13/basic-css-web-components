@@ -1,0 +1,23 @@
+*{
+	box-sizing: border-box;
+}
+
+div {
+	margin-left: 0;
+
+
+}
+
+div p:hover {
+	color: #66cc99;
+}
+
+p {
+	font-family: "Avenir" ;
+	border: 1px solid #333333;
+	width: 300px;
+	height: 40px;
+	padding: 10px;
+	padding-left: 20px;
+	margin: 0;
+}
